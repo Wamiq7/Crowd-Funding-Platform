@@ -1,2 +1,5 @@
 fontend/node_modules
 backend/node_modules
+backend/routes/node_modules
+config.bat
+node_modules
